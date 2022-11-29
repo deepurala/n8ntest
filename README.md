@@ -2,4 +2,4 @@
 
 ## References:
 
-1. Logo: https://www.n8n.io
+1. website: https://www.n8n.io
