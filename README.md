@@ -1,5 +1,5 @@
-# CA 1 for Web and Mobile Technology
+# CA 1 for Networks
 
-## References:
+## References;
 
-1. Logo: https://www.freelogodesign.org
+1. Logo: https://www.n8n.io
